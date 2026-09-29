@@ -1,0 +1,6 @@
+Font_Height:
+Font_Char_Width:
+Font_Size: SIZE_SMALL
+Screen_Width:
+Screen_Height:
+FPS_Limit: 20

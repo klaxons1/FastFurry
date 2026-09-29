@@ -1,0 +1,1174 @@
+Arcade
+Werkstatt
+Demo
+Optionen
+Hilfe
+Info
+Beenden
+Ja
+Nein
+Auswahl
+Zurück
+The Fast And The Furious
+Wirklich beenden?
+Ton
+Vibration
+Neues Spiel
+Hilfe wird geladen
+Sicher?
+TASTE DRÜCKEN
+LADEN
+Brian
+OK
+Niedriger NOS-Stand!
+NOS leer!
+Los!
+Falsche Richtung
+Zeit um!
+Beeil dich!
+Rennen beendet!
+Checkpoint
+Driften!
+Rundenzeit
+Runde
+Zeit
+.
+.
+Pause
+Weiter
+Menü
+Platz
+Preisgeld
+Beste Runde
+V
+Spoiler
+Ht. Stossstange
+Vd. Stossstange
+Seitenschürze
+Lackierung
+Neulackierung
+NOS
+Gänge
+Tuning
+Geld
+Modifikation bereits durchgeführt
+Ebene
+Eins
+Zwei
+Drei
+Preis
+Kaufen
+Reduziert Luftwiderstand
+
+Reduziert Luftwiderstand weiter
+Reduziert Luftwiderstand weiter
+Karriere
+Rundenzeiten
+Game Lobby
+Auto wählen
+Irgendwo muss man anfangen, warum also nicht hier und jetzt?
+Diesmal hast du gewonnen. Hoffentlich bleibt dir dein Glück treu.
+Gib endlich auf und geh nach Hause.
+Strecke wählen
+Gegner wählen
+Dominator XS
+Wave VVT
+Mantis VRS
+Zentrum, Route 1
+Zentrum, Route 2
+Vorstadt, Route 1
+Vorstadt, Route 2
+Dom
+Schnellste Runde
+Namen eingeben
+Modifikation gesperrt
+Zeiten zurücksetzen
+Schaden
+Totalschaden!
+Steuerung
+Anleitung
+Links:
+Rechts:
+Bremse:
+NOS einsetzen:
+Kamera ändern:
+Demo wird geladen
+Gegner:
+Auto kann nicht modifiziert werden
+Zw.-Zeit
+Cheat für Autos, Levels und Geld
+Zeitlimit-Cheat
+Schaden-Cheat
+aktiviert
+deaktivt.
+oder
+Rückspiegel:
+$
+MPH
+/2
+Pause
+Sprache wählen
+Links
+Rechts
+Hoch
+Runter
+Aktion
+Sp. A
+Sp. B
+Aktion
+Sp. D
+Unbegrenztes-NOS-Cheat
+Gekaufte Modifikationen
+Löschen
+Hauptmenü
+Cheat eingegeben
+Glückwunsch!
+Platz
+Neues Auto gewonnen:
+Neue Strecke freigeschaltet:
+Neuer Gegner freigeschaltet:
+Extrem-Rennmodus freigeschaltet
+Temposchub-Arcade-Mod. freigesch.
+Perfekt-Arcade-Modus freigeschaltet
+Neue Modifikationen für Ebene
+Soso, da bist du also wieder. Letztes Mal habe ich es dir leicht gemacht.
+Ist das alles, was du kannst?
+Ein Spitzenrennen! Ich kann nicht fassen, dass du mich geschlagen hast.
+Nun ist die Zeit für meine Revanche gekommen!
+Das war zu einfach.
+Wow, du bist echt schnell.
+Das müssen wir unter uns ausmachen! Auf geht's!
+Das war viel zu knapp für meinen Geschmack.
+Alle Achtung - du bist einfach zu schnell!
+Du hast also Brian geschlagen? OK, dann versuch es doch mal gegen mich!
+Ist das alles, was du drauf hast?
+Ich verstehe jetzt, wie du Brian schlagen konntest.
+Lass uns noch mal fahren. Diesmal mach ich es dir nicht so leicht.
+Ich hab dir doch gesagt, dass es nicht so einfach wird.
+Was hast du nur unter deiner Motorhaube versteckt?
+Nicht schlecht. Aber du glaubst doch nicht, dass du das noch einmal schaffst?
+Ich war diesmal einfach zu gut für dich.
+Wie machst du das nur?
+Noch einmal schlägst du mich nicht!
+Das war schon ziemlich gut - vielleicht hast du ja beim nächsten Mal mehr Glück.
+Ich kann nicht fassen, dass du mich schon wieder geschlagen hast!
+Normal schwierig
+Extrem schwierig.
+Zur. zum Spiel
+Musik
+Beenden
+Spiel starten
+Fortschritt
+Karriere fortsetzen
+Perfekt
+Temposchub
+Einzelrennen
+Spiel ist gesperrt
+Kann im Karrieremodus freigeschaltet werden.
+Schwiergk. wähl.
+Normal
+Extrem
+Zurückset.
+%
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Verbessert die Aerodynamik des Autos.
+Optimiert das Aussehen des Autos.
+Optimiert das Aussehen des Autos.
+Optimiert das Aussehen des Autos.
+
+
+
+Verlängert die NOS-Dauer.
+Verlängert die NOS-Dauer.
+Verlängert die NOS-Dauer.
+Erhöht die Effizienz der Schaltung.
+Erhöht die Effizienz der Schaltung.
+Erhöht die Effizienz der Schaltung.
+Erhöht die Motorleistung.
+Erhöht die Motorleistung.
+Erhöht die Motorleistung.
+Freigesch. Autos
+Karriere abgeschl.
+Perfekt-Modus: Kein Schaden zuläs.
+Du kannst wohl nicht schneller fahren?
+Brauchst du Hilfe, Schnecke?
+Ich lege erst mal ein Nickerchen ein.
+Gib doch mal ein bisschen Gas, Kleiner!
+Leg einen Zahn zu, mir ist langweilig.
+Mir wäre es peinlich, so zu schleichen.
+:
+Lenkung
+Hoch
+Niedr.
+Karriere abgeschl.
+Glückwunsch! Du hast den Karrieremodus abgeschlossen und alle Herausforderungen freigeschaltet.
+3 Runden in einem deiner Autos auf einer freigeschalt. Strecke gegen einen freigeschalt. Gegner.
+Bewältige 3 Runden innerhalb des Zeitlimits. An den Checkpoints gibt es Extra-NOS und mehr Zeit.
+Fahre 2 Runden innerhalb des Zeitlimits ohne einen einzigen Zusammenstoss.
+Lenkung
+Allen Fortschritt zurücksetzen? Dabei gehen freigeschalt. Autos, Strecken und Modi verloren.
+Diese Modifikation wirklich kaufen?
+Cheat zum schnellen Level-Abschluss
+Höhere Ebene bereits angewendet
+Links mit NOS:
+Rechts mit NOS:
+Links und Bremsen:
+Rechts und Bremsen:
+Standard
+Ausstatt.:
+Maximaler Preis:
+Herausforderung
+Pause: Linker Softkey
+.
+Speicher ist voll. Versichern Sie sich, dass alle Anwendungen und Datenverbindungen beendet wurden, und versuchen Sie es erneut. Falls Sie weiterhin Probleme haben, schalten Sie Ihr Telefon aus und wieder ein, oder kontaktieren Sie gegebenenfalls help@iplay.com.
+--Karrieremodus--\n\nIm Karrieremodus fährst du gegen die besten Fahrer. Du musst sie in 3 Runden besiegen, bevor dein Zeitlimit abläuft. Für jede erfolgreich abgeschlossene Runde wird dein Zeitlimit verlängert. Für jede verbliebene Sekunde erhältst du einen Geldbonus. Mit dem verdienten Geld kannst du in der Werkstatt Modifikationen für dein Auto kaufen, um dessen Leistung und Aussehen zu verbessern. Einmal gewonnene Herausforderungen können erneut gespielt werden, doch das Preisgeld wird reduziert.\n\n--Arcade-Modus--\n\nIm Arcade-Modus kannst du in jedem Auto aus deiner Karrieremodus-Garage Rennen fahren. Es gibt drei Spielmodi: Einzelrennen, Temposchub und Perfekt. Der Temposchub- und der Perfekt-Modus können nur durch Spielen im Karrieremodus freigeschaltet werden.\n\n--Einzelrennen--\n\nDrei-Runden-Rennen gegen eine beliebige freigeschaltete Figur auf einer freigeschalteten Strecke deiner Wahl. Es gelten dieselben Regeln wie bei Rennen im Karrieremodus. Die Runden müssen vor Ablauf des Zeitlimits abgeschlossen sein.\n\n--Temposchub--\n\nIm Temposchubmodus geht es um die Geschwindigkeit. Die Strecken zwischen den Checkpoints müssen möglichst schnell und innerhalb der knappen Zeitlimits bewältigt werden. Der NOS-Einsatz ist dabei unverzichtbar. Jedes Mal, wenn du an einem Checkpoint vorbeikommst, wird der NOS-Tank aufgefüllt. Schaffst du 3 Runden, bevor das Zeitlimit abläuft?\n\n--Perfekt--\n\nIm Perfekt-Modus musst du 2 Runden fahren, ohne dein Auto zu beschädigen. Dabei musst du ein Zeitlimit beachten. Gibst du ordentlich Gas und riskierst einen Zusammenstoss oder fährst du langsamer, auch wenn dir dann vielleicht die Zeit ausgeht?
+Published by I-play, a trademark of Digital Bridges Ltd. © 2005 Digital Bridges Limited. All Rights Reserved.\n\nThe Fast And The Furious is a Trademark and Copyright of Universal Studios. Licensed by Universal Studios Licensing LLLP. All Rights Reserved.\n\nWEITERE INFOS: HELP@IPLAY.COM\n\nEntwicklung: Juice Games Ltd.\n\n--Projektmanagement / Programmierungsl.--\n\nPaul Keast\n\n--Programmierer--\n\nBen Christey\nJohn McGowan\nClaire Williams\n\n--Grafiken--\n\nAndy Bate\nTyronne Bramley\nMatt Brussels\nPaul Dolan\nRod Edwards\nMatt Green\nRobert Owen\nDan Nuttall\n\n--Besonderer Dank an--\n\nColin Bell\nTim Preece\nDon Whiteford\nAlchemy Audio Lab\n\n--I-play--\n\n--QA-Teamleitung--\n\nAndreas Gschwari\n\n--QA-Testleitung--\n\nRomain Amiel\n\n--Produzent--\n\nChris Wright
+
+
+
+Arcade
+Garage
+Demo
+Setup
+Help
+About
+Exit
+Yes
+No
+Select
+Back
+The Fast And The Furious
+Really exit?
+Sound
+Vibration
+New game
+Loading help
+Are you sure?
+PRESS A KEY
+LOADING
+Brian
+OK
+NOS Level Low!
+NOS Empty!
+Go!
+Wrong Way
+Time Up!
+Hurry Up!
+Race Complete!
+Checkpoint
+Drift!
+Lap Time
+Lap
+Time
+st
+nd
+Paused
+Continue
+Menu
+Position
+Money Won
+Best Lap
+v
+Spoiler
+Rear bumper
+Front bumper
+Side skirt
+Decal
+Respray
+NOS
+Gears
+Tuning
+Cash
+Mod Already Applied
+Stage
+One
+Two
+Three
+Cost
+Buy
+Reduces air resistance
+
+Further reduces air resistance
+Further reduces air resistance
+Career
+Lap Times
+Game Lobby
+Select Car
+Everyone has to start somewhere, it might as well be here and now.
+You won this time. Let's hope your luck holds out.
+Let's hope you give up and go home now.
+Select Track
+Select Opponent
+Dominator XS
+Wave VVT
+Mantis VRS
+Downtown, Route 1
+Downtown, Route 2
+Suburbs, Route 1
+Suburbs, Route 2
+Dom
+Fastest Lap
+Enter name
+Modification Locked
+Reset Lap Times
+Damage
+Car is wrecked!
+Controls
+Instructions
+Turn Left:
+Turn Right:
+Brake:
+Apply NOS:
+Change Camera:
+Loading Demo
+Opponent:
+Cannot Modify Car
+Split
+Cars, Levels and Money cheat
+No Time cheat
+No Damage cheat
+enabled
+disabled
+or
+Look Behind:
+$
+MPH
+/2
+Pause
+Select Language
+Left
+Right
+Up
+Down
+Fire
+Game A
+Game B
+Fire
+Game D
+Unlimited NOS cheat
+Mod Purchased
+Delete
+Main Menu
+Cheat Entered
+Congratulations
+Place
+You have won a new car:
+You have unlocked a new track:
+You have unlocked a new opponent:
+Extreme racing mode is unlocked
+Speed burst arcade mode is unlocked
+Perfect lap arcade mode is unlocked
+You have unlocked mods for stage
+So I see you are back again. Last time I went easy on you.
+Come on, can't you do any better than that?
+Good race! I can't believe you beat me.
+This is it, time for my revenge.
+That was too easy!
+Wow, you really are fast.
+It's just you versus me. Let's do it!
+That was a bit too close for comfort.
+Respect, you are just too fast.
+OK, you beat Brian so I'll give you a race.
+Come on, is that the best you can do?
+Now I see how you beat Brian.
+Let's race again. This time it won't be so easy.
+I told you it wouldn't be so easy.
+What have you got hidden under that hood?
+So, you are fast. But do you really think you can beat me again?
+I was simply too good for you this time.
+How do you keep doing that?
+I'm not going to let you beat me again.
+Close race kid, better luck next time.
+I can't believe you beat me again!
+Normal Difficulty
+Extreme Difficulty
+Back to Game
+Music
+Quit Game
+Play game
+Progress
+Resume Career
+Perfect Lap
+Speed Burst
+Single Race
+Game Locked
+This game can be unlocked by playing the career game.
+Select Difficulty
+Normal
+Extreme
+Reset
+%
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+This will improve car aerodynamics.
+Visually enhances your car.
+Visually enhances your car.
+Visually enhances your car.
+
+
+
+This will increase the NOS duration.
+This will increase the NOS duration.
+This will increase the NOS duration.
+This will increase the gear efficiency.
+This will increase the gear efficiency.
+This will increase the gear efficiency.
+This will increase engine power.
+This will increase engine power.
+This will increase engine power.
+Cars Unlocked
+Career Complete
+No damage allowed in perfect lap mode
+Is that as fast as you can go? I had better slow down!
+Are you sure you are moving? Here let me help.
+I think I should stop for a sleep.
+Come on kid, catch up!
+Hurry up, I'm getting bored.
+You are so slow it's embarrassing me.
+:
+Steering Sensitivity
+High
+Low
+Career Complete
+Congratulations. Career mode is complete. All challenges now unlocked.
+Race any unlocked opponent on any unlocked tracks for 3 laps using any car owned.
+Complete 3 laps with tight time limits. Checkpoints will replenish NOS and add time.
+Complete 2 laps within the time limit without crashing once.
+Steering
+Are you sure you want to reset all career progress? This will reset all unlocked cars, tracks and game modes.
+Really purchase this mod?
+Quick level complete cheat
+Higher stage already applied
+Turn Left with NOS:
+Turn Right with NOS:
+Turn Left and Brake:
+Turn Right and Brake:
+Default
+Equipped:
+Maximum prize:
+Challenge
+Pause: Left Softkey
+st
+Memory is full. Please ensure all applications and data connections are closed and try again. If this problem persists try turning the phone off and on again. If this problem still persists please contact help@iplay.com.
+--Career mode--\n\nIn career mode you race against some of the best racers around. You must beat them over three laps, before your time limit expires. Each time you complete a lap, you are awarded an extension to your time limit. For every second you have left, you will be awarded a cash bonus. With the cash earned, you can go to the garage where you can buy modifications for your car to increase performance and improve the look. Once you have won a challenge you can still race it again, but the money you win will be reduced.\n\n--Arcade mode--\n\nArcade mode allows you to race any cars that you have in your career mode garage. There are three separate game modes: single race, speed burst and perfect lap. Speed burst and perfect lap can only be unlocked by playing through career mode.\n\n--Single Race--\n\nRace any unlocked character over three laps of any unlocked track. The same race rules apply as with career mode. You must complete a lap before your time limit expires.\n\n--Speed Burst--\n\nSpeed is the key to speed burst. You must race between checkpoints as quickly as possible, within the short time limits. Use of NOS is essential. Each time you cross a checkpoint, your NOS tank is refilled. Can you complete three whole laps before your time limit runs out.\n\n--Perfect Lap--\n\nIn perfect lap, you must complete two laps of the track without causing any damage to your car. However, you must complete the laps within a time limit. Do you go all out and risk a crash, or go slower and risk running out of time?
+Published by I-play, a trademark of Digital Bridges Ltd. © 2005 Digital Bridges Limited. All Rights Reserved.\n\nThe Fast And The Furious is a Trademark and Copyright of Universal Studios. Licensed by Universal Studios Licensing LLLP. All Rights Reserved.\n\nSupport contact help@iplay.com\n\nDeveloped by Juice Games Ltd.\n\n--Project Manager / Lead Programmer--\n\nPaul Keast\n\n--Programmers--\n\nBen Christey\nJohn McGowan\nClaire Williams\n\n--Artists--\n\nAndy Bate\nTyronne Bramley\nMatt Brussels\nPaul Dolan\nRod Edwards\nMatt Green\nRobert Owen\nDan Nuttall\n\n--Special thanks to--\n\nColin Bell\nTim Preece\nDon Whiteford\nAlchemy Audio Lab\n\n--I-play--\n\n--QA Team Lead--\n\nAndreas Gschwari\n\n--QA Lead Tester--\n\nRomain Amiel\n\n--Producer--\n\nChris Wright
+
+
+
+Arcade
+Garaje
+Demo
+Opciones
+Ayuda
+Acerca de
+Salir
+Sí
+No
+Selección
+Atrás
+The Fast And The Furious
+¿Salir?
+Sonido
+Vibración
+Nueva partida
+Cargando ayuda
+¿Seguro?
+PULSA UNA TECLA
+CARGANDO
+Brian
+OK
+Nitro: ¡nivel bajo!
+Nitro: ¡vacío!
+¡Ya!
+Dirección equivocada
+¡Tiempo agotado!
+¡Date prisa!
+¡Completada!
+Punto de control
+¡Derrape!
+Tiempo vuelta
+Vuelta
+Tiempo
+a.
+a.
+En pausa
+Continuar
+Menú
+Posición
+Dinero ganado
+Mejor vuelta
+v.
+Alerón
+Protector tras.
+Protector fron.
+Faldón lateral
+Adhesivo
+Repintado
+Nitro
+Marchas
+Puesta a punto
+Dinero
+Modificación ya aplicada
+Etapa
+Uno
+Dos
+Tres
+Precio
+Comprar
+Reduce la resistencia del aire
+
+Reduce aún más la resistencia del aire
+Reduce aún más la resistencia del aire
+Carrera
+Tiempos vuelta
+Game Lobby
+Seleccionar coche
+Todos tienen que empezar algún día. Puede ser aquí y ahora.
+Esta vez has ganado. Que la suerte te acompañe.
+Date por vencido y vete a casa ahora.
+Seleccionar pista
+Selec. oponente
+Dominator XS
+Wave VVT
+Mantis VRS
+Ciudad, ruta 1
+Ciudad, ruta 2
+Periferia, ruta 1
+Periferia, ruta 2
+Dom
+Vuelta rápida
+Escribir nombre
+Modificación bloqueada
+Reiniciar tiempos
+Daños
+¡Coche destrozado!
+Controles
+Instrucciones
+Giro izqda.:
+Giro derecha:
+Frenar:
+Usar nitro:
+Cambiar cámara:
+Cargando demo
+Oponente:
+No se puede modificar el coche
+Parcial
+Coches, niveles y dinero
+Tiempo sin límite
+Sin daños
+activada
+no activada
+o
+Retrovisor:
+$
+MPH
+/2
+Pausa
+Seleccionar idioma
+Izqda.
+Drcha.
+Arriba
+Abajo
+Acción
+Jue. A
+Jue. B
+Acción
+Jue. D
+Nitro ilimitado
+Modificación adquirida
+Eliminar
+Menú ppal.
+Trampa activada
+Enhorabuena
+Posición
+Has ganado un nuevo coche:
+Nueva pista desbloq.:
+Nuevo oponente desbloq.:
+Modo extremo desbloqueado:
+Modo aceleración desbloqueado:
+Modo vuelta perfecta desbloq.:
+Modificaciones por etapa desbloq.
+Veo que has vuelto. La última vez fue fácil ganar.
+Venga, ¿es que no puedes hacerlo mejor?
+¡Buena carrera! No puedo creer que me hayas ganado.
+Es el momento de mi revancha.
+¡Demasiado fácil!
+Eres rápido de verdad.
+Es un cara a cara. ¡Vamos allá!
+¡Faltó poco!
+Lo reconozco, eres demasiado rápido.
+Vale, ganaste a Brian. Te concedo una carrera.
+Venga, ¿es esto todo lo que puedes hacer?
+Ahora entiendo cómo ganaste a Brian.
+Echemos otra carrera. Esta vez no será tan fácil.
+Te advertí que no sería tan fácil.
+¿Qué escondes bajo el capó?
+Eres rápido. ¿Crees de verdad que puedes ganarme de nuevo?
+Soy demasiado bueno para ti.
+¿Pero cómo lo haces?
+No dejaré que me ganes otra vez.
+Carrera igualada, chaval. Mejor suerte la próxima vez.
+¡No puedo creer que me hayas ganado de nuevo!
+Dificultad normal
+Dificultad extrema
+Volver
+Música
+Terminar juego
+Jugar
+Progreso
+Reanudar carrera
+Vuelta perfecta
+Aceleración
+Carrera simple
+Juego bloqueado
+Se desbloquea jugando al modo carrera.
+Elige dificultad
+Normal
+Extrema
+Reiniciar
+%
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Esto mejorará la aerodinámica del coche.
+Mejora el aspecto del coche.
+Mejora el aspecto del coche.
+Mejora el aspecto del coche.
+
+
+
+Incrementa la duración del nitro.
+Incrementa la duración del nitro.
+Incrementa la duración del nitro.
+Incrementa la eficacia del cambio.
+Incrementa la eficacia del cambio.
+Incrementa la eficacia del cambio.
+Incrementa la potencia del motor.
+Incrementa la potencia del motor.
+Incrementa la potencia del motor.
+Coches desbloq.
+Carrera completada
+Vuelta perfecta no permite daños
+¿No puedes ir más rápido? ¡Mejor frenar!
+¿Seguro que te estás moviendo? Te ayudo.
+Debería parar a dormir.
+Venga chaval, ¡alcánzame!
+Date prisa, me estoy aburriendo.
+¡Eres tan lento que me da vergüenza!
+:
+Sensib. volante
+Alta
+Baja
+Carrera completada
+Enhorabuena. Modo carrera completado. Todos los retos desbloqueados.
+Compite a tres vueltas contra un oponente y un circuito desbloq. usando cualquiera de tus coches.
+Completa 3 vueltas con límite de tiempo. Los puntos de control rellenan nitro y añaden tiempo.
+Completa 2 vueltas dentro del límite de tiempo sin estrellarte.
+Sensib. Volante
+¿Reiniciar el progreso de carrera? Esto desactivará coches, circuitos y modos desbloqueados.
+¿Adquirir esta modificación?
+Finalización rápida de nivel
+Etapa superior ya aplicada
+Giro izqda. y nitro:
+Giro drcha. y nitro:
+Giro izqda. y freno:
+Giro drcha. y freno:
+Normal
+Equipo:
+Premio máximo:
+Reto
+Pausa: Tecla fun. izq.
+a.
+Memoria llena. Asegúrate de que todas las aplicaciones y conexiones están cerradas e inténtalo de nuevo. Si el problema persiste apaga el teléfono y vuélvelo a encender. Si el problema aún persiste contacta help@iplay.com.
+--Modo carrera--\n\nEn el modo carrera compites contra los mejores pilotos. Debes ganarlos en tres vueltas, antes de agotar el tiempo. Por cada vuelta completada se te extiende el tiempo máximo. El tiempo no utilizado se convierte en dinero. Con el dinero ganado puedes ir a un garaje y adquirir modificaciones para aumentar las prestaciones y mejorar el aspecto del coche. Una vez ganada una competición, puedes volver a disputarla, pero la cantidad ganada será menor.\n\n--Modo arcade--\n\nEl modo arcade permite competir con cualquier coche que tengas en el garaje del modo carrera. Existen tres modos de juego: carrera simple, aceleración y vuelta perfecta. Los modos aceleración y vuelta perfecta sólo pueden activarse jugando en modo carrera.\n\n--Carrera simple--\n\nCompite a tres vueltas contra un piloto en un circuito desbloqueado. Se aplican las mismas reglas que en el modo carrera. Debes completar una vuelta antes de que se agote el tiempo.\n\n--Aceleración--\n\nLa pura velocidad es la clave del modo aceleración. Debes pasar lo más rápido posible entre puntos de control manteniéndote dentro de estrictos límites de tiempo. El uso de óxido nitroso (nitro) es esencial. Al pasar por un punto de control se vuelve a llenar el tanque de nitro. ¿Podrás completar tres vueltas antes de que se agote el tiempo?\n\n--Vuelta perfecta--\n\nEn el modo vuelta perfecta debes completar dos vueltas al circuito sin causar daños al coche dentro de los límites de tiempo. ¿Irás a tope con el riesgo de tener un accidente o irás más despacio a riesgo de quedarte sin tiempo?
+Published by I-play, a trademark of Digital Bridges Ltd. © 2005 Digital Bridges Limited. All Rights Reserved.\n\nThe Fast And The Furious is a Trademark and Copyright of Universal Studios. Licensed by Universal Studios Licensing LLLP. All Rights Reserved.\n\nAsistencia: help@iplay.com\n\nDesarrollado por Juice Games Ltd.\n\n--Jefe de proyecto / Programador principal--\n\nPaul Keast\n\n--Programadores--\n\nBen Christey\nJohn McGowan\nClaire Williams\n\n--Artistas--\n\nAndy Bate\nTyronne Bramley\nMatt Brussels\nPaul Dolan\nRod Edwards\nMatt Green\nRobert Owen\nDan Nuttall\n\n--Agradecemos la colaboración de--\n\nColin Bell\nTim Preece\nDon Whiteford\nAlchemy Audio Lab\n\n--I-play--\n\n--Responsable del equipo de control de calidad--\n\nAndreas Gschwari\n\n--Tester principal--\n\nRomain Amiel\n\n--Productor--\n\nChris Wright
+
+
+
+Arcade
+Garage
+Démo
+Configurer
+Aide
+À propos
+Quitter
+Oui
+Non
+Sélect.
+Retour
+The Fast And The Furious
+Voulez-vous vraiment quitter ?
+Son
+Vibration
+Nouvelle partie
+Chargement de l'aide
+Êtes-vous sûr ?
+APPUYEZ SUR 1 TOUCHE
+CHARGEMENT
+Brian
+OK
+Nitro bas !
+Nitro vide !
+Partez !
+Mauvais sens
+Temps écoulé !
+Dépêchez-vous !
+Course terminée !
+Point de passage
+Dérapage !
+Temps au tour
+Tour
+Temps
+er
+ème
+Pause
+Continuer
+Menu
+Position
+Argent gagné
+Meilleur tour
+v
+Becquet
+Pare-chocs AV
+Pare-chocs AR
+Bas de portière
+Transfert
+Repeindre
+Nitro
+Vitesses
+Réglage
+Argent
+Modification déjà appliquée
+Niveau
+Un
+Deux
+Trois
+Coût
+Acheter
+Diminue la résistance à l'air
+
+Diminue davantage la résistance à l'air
+Diminue davantage la résistance à l'air
+Carrière
+Temps au tour
+Game Lobby
+Choisir voiture
+Faut bien commencer quelque part. Ça pourrait bien être ici et maintenant.
+Tu as gagné cette fois. Pourvu que ta chance dure.
+Espérons que tu abandonnes et que tu rentres chez toi.
+Choisir circuit
+Choisir adversaire
+Dominator XS
+Wave VVT
+Mantis VRS
+Centre-ville, voie 1
+Centre-ville, voie 2
+Banlieue, voie 1
+Banlieue, voie 2
+Dom
+Meilleur tour
+Saisir nom
+Modification non disponible
+Effacer temps
+Dégâts
+Voiture démolie !
+Commandes
+Instructions
+Gauche :
+Droite :
+Freiner :
+Util. Nitro :
+Angle de vue :
+Chargement démo
+Adversaire :
+Cette voiture ne peut être modifiée
+Tps int.
+Code pour voitures, niveaux et argent
+Code pour temps illimité
+Code pour aucun dégât
+activé
+désactivé
+ou
+Vue arrière :
+$
+MPH
+/2
+Pause
+Choisir langue
+Gauche
+Droite
+Haut
+Bas
+Feu
+Jeu A
+Jeu B
+Feu
+Jeu D
+Code pour le Nitro illimité
+Modification achetée
+Effacer
+Menu principal
+Code saisi
+Félicitations
+Place
+Nouvelle voiture gagnée :
+Nouveau circuit débloqué :
+Nouvel adversaire débloqué :
+Mode Course extrême débloqué
+Mode arcade Turbo débloqué
+Mode arcade Tour parfait débloqué
+Modifications débloquées ! Niveau
+Alors, tu es de retour. La dernière fois, j'y ai été mollo.
+C'est tout ce que tu sais faire ?
+Bonne course ! Incroyable, tu m'as battu.
+C'est l'heure de la revanche.
+C'était trop facile !
+Tu es vraiment rapide !
+C'est entre toi et moi. C'est parti !
+C'était moins une.
+Tu es vraiment trop rapide. Respect.
+Tu as battu Brian. Je t'accorde une course.
+Sérieux, c'est tout ce que tu sais faire ?
+Maintenant je comprends mieux comment tu as battu Brian.
+Faisons une autre course. Ça ne sera pas si facile cette fois-ci.
+Je t'avais prévenu que ça ne serait pas si facile.
+Tu caches quoi sous ce capot ?
+OK, tu es rapide. Mais tu penses vraiment pouvoir encore me battre ?
+J'étais trop rapide pour toi cette fois-ci.
+Comment tu arrives à faire ça ?
+Je ne vais pas te laisser me battre encore.
+C'était serré. Tu auras plus de chance la prochaine fois.
+Incroyable, tu m'as encore battu !
+Difficulté normale
+Difficulté extrême
+Retour
+Musique
+Quitter
+Jouer
+Progression
+Reprendre carrière
+Tour parfait
+Turbo
+Course simple
+Jeu non disponible
+Débloquez ce jeu en jouant au mode Carrière.
+Choisir difficulté
+Normale
+Extrême
+Effacer
+%
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore l'aérodynamisme de la voiture.
+Améliore le look de la voiture.
+Améliore le look de la voiture.
+Améliore le look de la voiture.
+
+
+
+Augmente la durée du Nitro.
+Augmente la durée du Nitro.
+Augmente la durée du Nitro.
+Améliore l'efficacité des rapports.
+Améliore l'efficacité des rapports.
+Améliore l'efficacité des rapports.
+Augmente la puissance du moteur.
+Augmente la puissance du moteur.
+Augmente la puissance du moteur.
+Voitures débloquées
+Carrière terminée
+Pas de dégâts en mode Tour parfait
+Quelle lenteur ! J'aurais dû ralentir !
+Tu avances vraiment ? Laisse-moi t'aider.
+Je crois que je vais m'endormir.
+Allez, rattrape-moi !
+Plus vite ! Je commence à m'ennuyer.
+Quel escargot. J'ai honte pour toi.
+ :
+Sensibil. direction
+Élevée
+Basse
+Carrière terminée
+Félicitations. Le mode Carrière est à présent terminé. Tous les défis sont débloqués.
+Défiez un adversaire débloqué sur l'un des circuits débloqués avec l'une de vos voitures (3 tours).
+Terminez 3 tours en temps limité. Les points de passage restaurent le Nitro et ajoutent du temps.
+Terminez 2 tours en temps limité sans aucun accident.
+Sensibil. direction
+Effacer la progression en mode Carrière ? Les modes, circuits et voitures débloqués seront effacés.
+Acheter cette modification ?
+Code pour terminer rapidement le niveau
+Meilleure modification déjà utilisée
+Gauche avec Nitro :
+Droite avec Nitro :
+Gauche et freiner :
+Droite et freiner :
+Par défaut
+Équipé :
+Prix maximum :
+Défi
+Pause : Tche Fct. Gche
+ère
+Mémoire pleine. Vérifiez que toutes les applications et les connections de données sont désactivées et réessayez. Si le problème persiste, essayez d’éteindre et de rallumer votre téléphone. Si ce problème continue, veuillez contacter help@iplay.com
+--Mode Carrière--\n\nEn mode Carrière, vous devez affronter la crème des pilotes. Vous devez les battre sur trois tours, avant la fin du temps imparti. À chaque fois que vous terminez un tour, vous obtenez un bonus de temps. Chaque seconde restante à la fin de la course sera convertie en bonus d'argent. Avec cet argent, vous pouvez vous rendre au garage pour acheter des modifications et améliorer le look et les performances de votre voiture. À chaque fois que vous remportez un défi, vous pouvez y participer à nouveau, mais la somme d'argent gagnée sera diminuée. \n\n--Mode Arcade--\n\nLe mode Arcade vous permet de jouer avec toutes les voitures obtenues en mode Carrière. Il y a trois modes de jeu différents : Course unique, Turbo et Tour parfait. Vous ne pouvez débloquer les modes Turbo et Tour parfait qu'en jouant au mode Carrière.\n\n--Course unique--\n\nAffrontez un adversaire débloqué pendant trois tours sur un des circuits débloqués. Les règles de course sont les mêmes que pour le mode Carrière. Vous devez terminer chaque tour avant la limite de temps imparti.\n\n--Turbo--\n\nLa vitesse est la base du mode Turbo. Vous devez foncer aussi vite que possible entre chaque point de passage, car vous disposez d'une limite de temps très serrée. L'utilisation du Nitro est essentielle. Chaque fois que vous passez un point de passage, vous faites le plein de Nitro. Pouvez-vous terminer trois tours complets sans dépasser la limite de temps ?\n\n--Tour parfait--\n\nEn mode Tour parfait, vous devez terminer deux tours d'un circuit sans endommager votre voiture. Vous devez néanmoins terminer les tours en temps limité. Préférez-vous foncer et risquer l'accident, ou aller moins vite et perdre du temps ?
+Édité par I-play, une marque commerciale de Digital Bridges Ltd. © 2005 Digital Bridges Limited. Tous droits réservés.\n\nThe Fast And The Furious est une marque commerciale et un copyright d'Universal Studios. Sous licence d'Universal Studios Licensing LLLP. Tous droits réservés.\n\nAssistance : help@iplay.com\n\nDéveloppé par Juice Games Ltd.\n\n--Chef de projet / Programmeur principal--\n\nPaul Keast\n\n--Programmeurs--\n\nBen Christey\nJohn McGowan\nClaire Williams\n\n--Graphistes--\n\nAndy Bate\nTyronne Bramley\nMatt Brussels\nPaul Dolan\nRod Edwards\nMatt Green\nRobert Owen\nDan Nuttall\n\n--Un grand merci à--\n\nColin Bell\nTim Preece\nDon Whiteford\nAlchemy Audio Lab\n\n--I-play--\n\n--Responsable équipe AQ--\n\nAndreas Gschwari\n\n--Testeur principal AQ--\n\nRomain Amiel\n\n--Producteur--\n\nChris Wright
+
+
+
+Arcade
+Garage
+Demo
+Impostazioni
+Aiuto
+Informazioni
+Esci
+Sì
+No
+Seleziona
+Indietro
+The Fast And The Furious
+Vuoi uscire?
+Audio
+Vibrazione
+Nuova partita
+Caricamento aiuto
+Sei sicuro?
+PREMI UN TASTO
+CARICAMENTO
+Brian
+OK
+Livello NOS basso!
+NOS vuoto!
+Via!
+Contromano
+Tempo scaduto!
+Sbrigati!
+Corsa completata!
+Checkpoint
+Derapata!
+Tempo giro
+Giro
+Tempo
+°
+°
+In pausa
+Continua
+Menu
+Posizione
+Soldi vinti
+Miglior giro
+v
+Alettone
+Paraurti post.
+Paraurti ant.
+Minigonna lat.
+Decorazioni
+Verniciatura
+NOS
+Cambio
+Tuning
+Soldi
+Modifica già applicata
+Livello
+Uno
+Due
+Tre
+Costo
+Compra
+Riduce la resistenza dell'aria
+
+Minimizza la resistenza dell'aria
+Minimizza la resistenza dell'aria
+Carriera
+Tempi di giro
+Game Lobby
+Scegli auto
+Tutti devono inizare da qualche parte. Tanto vale che tu lo faccia qui e adesso.
+Questa volta hai vinto. Speriamo che la tua fortuna continui.
+Tornatene a casa!!!
+Scegli percorso
+Scegli avversario
+Dominator XS
+Wave VVT
+Mantis VRS
+Città, livello 1
+Città, livello 2
+Periferia, livello 1
+Periferia, livello 2
+Dom
+Giro più veloce
+Inserisci nome
+Modifica bloccata
+Azzera tempi giro
+Danno
+Auto distrutta!
+Controlli
+Istruzioni
+Gira a sx.:
+Gira a dx.:
+Frena:
+Usa NOS:
+Cambia visuale:
+Caricamento demo
+Avversario:
+Non si può modificare questa auto
+Parziale
+Trucco auto, livelli e soldi
+Trucco tempo illimitato
+Trucco danni illimitati
+attivato
+disattiv.
+o
+Guarda dietro:
+$
+MPH
+/2
+Pausa
+Scegli lingua
+Sx.
+Dx.
+Su
+Giù
+Fuoco
+Par. A
+Par. B
+Fuoco
+Par. D
+Trucco NOS illimitato
+Modifica acquisita
+Elimina
+Menu principale
+Trucco inserito
+Congratulazioni
+Posto
+Hai vinto una nuova auto:
+Nuovo livello sbloccato:
+Nuovo avversario sbloccato:
+Modalità Corsa estrema sbloccata
+Modalità Turbovelocità sbloccata
+Modalità Giro perfetto sbloccata
+Sbloccate le modifiche di livello
+Ah... di nuovo tu... L'ultima volta ti ho trattato troppo bene.
+Ma dai, è questo il meglio che sai fare?
+Ottimo! Non posso crederci! Mi hai battuto!
+Uhmmm... sento profumo di vendetta!
+È stato un gioco da ragazzi!
+Cavolo, quanto sei veloce!
+Un bel testa a testa. Si parte!
+Ci è mancato poco!
+Devo arrendermi, sei troppo veloce...
+Visto che hai battuto Brian ti concedo l'onore di sfidarmi.
+Ma come? Non sai fare di meglio?
+Adesso capisco come hai fatto a battere Brian.
+Un'altra gara, dai! Questa volta non sarà così facile.
+Ti avevo avvertito...
+Cosa tieni nascosto nel cofano?
+Sei davvero veloce. Ma credi veramente di potermi battere di nuovo?
+Sono troppo bravo per te.
+Come hai fatto?
+Non mi lascerò battere ancora.
+La prossima volta ti andrà meglio.
+Non ci credo! Mi hai battuto ancora!
+Difficoltà normale
+Difficoltà estrema
+Continua
+Musica
+Esci dal gioco
+Gioca
+Progresso
+Riprendi Carriera
+Giro perfetto
+Turbovelocità
+Gara singola
+Modalità bloccata
+Puoi sbloccarla giocando in modalità Carriera.
+Seleziona difficoltà
+Normale
+Estrema
+Resetta
+%
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aerodinamica dell'auto.
+Migliora l'aspetto dell'auto.
+Migliora l'aspetto dell'auto.
+Migliora l'aspetto dell'auto.
+
+
+
+Aumenta la durata del NOS.
+Aumenta la durata del NOS.
+Aumenta la durata del NOS.
+Aumenta l'efficacia del cambio.
+Aumenta l'efficacia del cambio.
+Aumenta l'efficacia del cambio.
+Aumenta la potenza del motore.
+Aumenta la potenza del motore.
+Aumenta la potenza del motore.
+Auto sbloccate
+Carriera completata
+Giro perfetto non permette danni
+Tutto lì? Meglio rallentare!
+Ti stai muovendo? Lascia che ti aiuti.
+Uff... Credo che farò un sonnellino.
+Allora pivello! Ti sbrighi?
+Veloce! Dai che mi annoio.
+Sei vergognosamente lento!!!
+:
+Sensibilità sterzo
+Alta
+Bassa
+Carriera completata
+Congratulazioni, modalità Carriera completata. Tutte le modalità di gioco sono ora sbloccate.
+Scegli un avversario e un livello sbloccati e gareggia per 3 giri con una qualsiasi delle tue macchine.
+Completa 3 giri nel poco tempo disponibile. I checkpoint ti riforniscono di NOS e tempo.
+Completa 2 giri entro i limiti di tempo disponibili e senza fare incidenti.
+Sensibilità sterzo
+Sei sicuro di voler resettare tutti i progressi (livelli, auto e modalità di gioco)?
+Vuoi comprare questa modifica?
+Trucco completa livello velocemente
+Livello superiore già acquisito
+Gira a sx. con NOS:
+Gira a dx. con NOS:
+Gira a sx. e frena:
+Gira a dx. e frena:
+Normale
+Equipag.:
+Premio massimo:
+Sfida
+Pausa: Tasto Sel. Sx.
+°
+Memoria piena. Assicurarsi che tutte le applicazioni e connessioni siano chiuse e ritentare. Se il problema persiste, provare a spegnere e riaccendere il telefono cellulare. Se il problema persiste ulteriormente, si prega contattare help@iplay.com
+--Modalità Carriera--\n\nIn questa modalità ti troverai a gareggiare con i piloti migliori al mondo. Dovrai batterli su tre giri e prima che scada il tempo previsto. Al termine di ogni giro, il tempo a tua disposizione verrà aumentato. Per ogni secondo guadagnato, vincerai un bonus in denaro. Con il denaro guadagnato, puoi andare al garage e comprare le modifiche necessarie per migliorare l'aspetto e le prestazioni della tua auto. Una volta vinta una sfida, puoi gareggiare ancora, anche se vincerai meno soldi.\n\n--Modalità Arcade--\n\nQuesta modalità ti consente di gareggiare con qualsiasi auto che hai nel garage della tua modalità Carriera. Sono disponibili tre diverse modalità di gioco: Gara singola, Turbovelocità e Giro perfetto. Puoi sbloccare Giro perfetto e Turbovelocità solo giocando in modalità Carriera.\n\n--Gara singola--\n\nGareggia contro un qualsiasi avversario sbloccato su tre giri di un percorso sbloccato a tua scelta. Valgono le stesse regole di gara della modalità Carriera. Occorre completare un giro prima che il tempo a disposizione finisca.\n\n--Turbovelocità--\n\nPer vincere qui devi essere veloce. Dovrai gareggiare tra i diversi checkpoint al massimo della velocità con poco tempo a disposizione. L'uso del NOS è essenziale. Ogni volta che attraversi un checkpoint, il NOS viene riempito. Riuscirai a completare tre giri prima che il tuo tempo scada?\n\n--Giro perfetto--\n\nIn questa modalità devi completare due giri senza causare danni al veicolo. Devi tuttavia completare i giri nei limiti di tempo previsti. Preferisci correre rischiando un incidente o rallentare rischiando di non farcela in tempo?
+Published by I-play, a trademark of Digital Bridges Ltd. © 2005 Digital Bridges Limited. All Rights Reserved.\n\nThe Fast And The Furious is a Trademark and Copyright of Universal Studios. Licensed by Universal Studios Licensing LLLP. All Rights Reserved.\n\nSupporto clienti help@iplay.com\n\nSviluppato da Juice Games Ltd.\n\n--Responsabile di progetto / Programmatore principale--\n\nPaul Keast\n\n--Programmatori--\n\nBen Christey\nJohn McGowan\nClaire Williams\n\n--Artisti--\n\nAndy Bate\nTyronne Bramley\nMatt Brussels\nPaul Dolan\nRod Edwards\nMatt Green\nRobert Owen\nDan Nuttall\n\n--Ringraziamenti speciali--\n\nColin Bell\nTim Preece\nDon Whiteford\nAlchemy Audio Lab\n\n--I-play--\n\n--Responsabile controllo qualità--\n\nAndreas Gschwari\n\n--Collaudo controllo qualità--\n\nRomain Amiel\n\n--Produttore--\n\nChris Wright
+
+

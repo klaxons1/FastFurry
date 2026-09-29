@@ -151,21 +151,22 @@ public class Class_53 {
       this.var_5af = 100.0F;
    }
 
-   private boolean sub_d4(int var1, int var2, Vector var3) {
-      boolean var4 = false;
-      if (var3 == null) {
-         var4 = this.var_12c.sub_428(var1, 2, var2);
-      } else {
-         for(int var5 = 0; var5 < var3.size(); ++var5) {
-            int var6 = (Integer)var3.elementAt(var5);
-            int var7 = this.var_12c.sub_b9(var6);
-            if (var4 = this.var_12c.sub_44c(var1, var6, var7)) {
-               break;
+    private boolean sub_d4(int var1, int var2, Vector var3) {
+        boolean var4 = false;
+        if (var3 == null) {
+            var4 = this.var_12c.sub_428(var1, 2, var2);
+        } else {
+            for(int var5 = 0; var5 < var3.size(); ++var5) {
+                int var6 = ((Integer)var3.elementAt(var5)).intValue();
+                int var7 = this.var_12c.sub_b9(var6);
+                if (var4 = this.var_12c.sub_44c(var1, var6, var7)) {
+                    break;
+                }
             }
-         }
-      }
+        }
 
-      return var4;
+        return var4;
+
    }
 
    public final void sub_e7(float var1, int var2, Vector var3) {

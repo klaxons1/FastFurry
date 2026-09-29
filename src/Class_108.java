@@ -1,5 +1,6 @@
 import java.io.DataInputStream;
 import java.io.EOFException;
+import java.io.IOException;
 import java.util.Random;
 import java.util.Vector;
 import javax.microedition.lcdui.Command;
@@ -931,7 +932,7 @@ public final class Class_108 implements Class_2b9, CommandListener {
    public final void commandAction(Command var1, Displayable var2) {
    }
 
-   private void sub_4ac() {
+   private void sub_4ac() throws IOException {
       System.out.println("Enter load scene");
       System.gc();
       Object var3 = null;

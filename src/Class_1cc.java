@@ -12,6 +12,7 @@ import javax.microedition.m3g.Group;
 import javax.microedition.m3g.Image2D;
 import javax.microedition.m3g.Light;
 import javax.microedition.m3g.Loader;
+import javax.microedition.m3g.Camera;
 import javax.microedition.m3g.Mesh;
 import javax.microedition.m3g.Node;
 import javax.microedition.m3g.Object3D;
@@ -616,15 +617,19 @@ public abstract class Class_1cc {
 
    }
 
-   public static final World sub_72f(Object3D[] var0) {
-      for(int var1 = 0; var1 < var0.length; ++var1) {
-         if (var0[var1] instanceof World) {
-            return (World)var0[var1];
-         }
-      }
-
-      return null;
-   }
+    public static final World sub_72f(Object3D[] var0) {
+        for(int var1 = 0; var1 < var0.length; ++var1) {
+            if (var0[var1] instanceof World) {
+                World var2 = (World)var0[var1];
+                Camera var3 = var2.getActiveCamera();
+                if (var3 != null && var3.getParent() == null) {
+                    var2.addChild(var3);
+                }
+                return var2;
+            }
+        }
+        return null;
+    }
 
    private static double sub_76b(double var0) {
       boolean var2 = false;

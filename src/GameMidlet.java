@@ -1056,11 +1056,11 @@ public class GameMidlet extends MIDlet implements Runnable {
       this.var_327 = null;
    }
 
-   private void sub_d6a(String var1) {
+   private void sub_d6a(String var1) throws RecordStoreException {
       this.var_3d4 = RecordStore.openRecordStore(var1, true);
    }
 
-   private void sub_d8b() {
+   private void sub_d8b() throws RecordStoreException {
       this.var_3d4.closeRecordStore();
       this.var_3d4 = null;
    }
